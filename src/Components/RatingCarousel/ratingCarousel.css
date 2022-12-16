@@ -1,0 +1,14 @@
+.carouselPara {
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  min-width: 100%;
+  max-width: 100%;
+  padding: 20px;
+  opacity: 1;
+  transform: translate3d(0%, 0px, 0px);
+}
+
+.carouselParaName {
+  margin-top: 920px;
+}
